@@ -1,0 +1,107 @@
+google.visualization.Query.setResponse(
+{
+	"version": "0.6",
+	"reqId": "0",
+	"status": "ok",
+	"sig": "5982206968295329967",
+	"table": {
+		"cols": [
+			{
+				"id": "dias",
+				"label": "Dias",
+				"type": "date"
+			},
+			{
+				"id": "conta_corrente",
+				"label": "Conta Corrente",
+				"type": "number"
+			},
+			{
+				"id": "conta_investimento",
+				"label": "Conta Investimento",
+				"type": "number"
+			}
+		],
+		"rows": [
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 07),
+					},
+					{
+						"v": 1023.29,
+					},
+					{
+						"v": 410.50,
+					}
+				]
+			},
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 08),
+					},
+					{
+						"v": 908.42,
+					},
+					{
+						"v": 490.82,
+					}
+				]
+			},
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 09),
+					},
+					{
+						"v": 852.97,
+					},
+					{
+						"v": 450.17,
+					}
+				]
+			},
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 10),
+					},
+					{
+						"v": 1780.0,
+					},
+					{
+						"v": 450.17,
+					}
+				]
+			},
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 11),
+					},
+					{
+						"v": 1621.69,
+					},
+					{
+						"v": 720.81,
+					}
+				]
+			},
+			{
+				"c": [
+					{
+						"v": new Date(2011, 01, 12),
+					},
+					{
+						"v": 1352.50,
+					},
+					{
+						"v": 698.42,
+					}
+				]
+			}
+		]
+	}
+}
+)
